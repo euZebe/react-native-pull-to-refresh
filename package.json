@@ -32,5 +32,6 @@
   "bugs": {
     "url": "https://github.com/moschan/react-native-pull-to-refresh/issues"
   },
-  "homepage": "https://github.com/moschan/react-native-pull-to-refresh#readme"
+  "homepage": "https://github.com/moschan/react-native-pull-to-refresh#readme",
+  "typings": "./lib/index.d.ts"
 }
